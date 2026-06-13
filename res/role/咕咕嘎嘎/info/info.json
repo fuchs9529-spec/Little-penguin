@@ -1,0 +1,18 @@
+{
+    "coverImages": ["gugugaga.png"],
+    "pfp":"gugugaga.png",
+    "petName": "咕咕嘎嘎",
+    "tages": {
+        "咕咕嘎嘎":"#C5E0B4"
+    },
+    "intro": "咕咕嘎嘎, 原本为终末地管理员(女), 宅家时切换的形态, 爱好拉电线",
+    "author":{
+        "name":"氧化钙你五月",
+        "pfp":"author_logo.jpg",
+        "frameColor":"#FFFFFF",
+        "links":{
+            "BiliBili":"1519587"
+        },
+        "infos":"一个同样喜欢咕咕嘎嘎的up罢了"
+    }
+}

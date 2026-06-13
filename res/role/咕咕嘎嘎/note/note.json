@@ -1,0 +1,17 @@
+{
+  "greeting_1": {
+    "sound": "gugugaga_start.wav"
+  },
+  "greeting_2": {
+    "sound": "gugugaga_start.wav"
+  },
+  "greeting_3": {
+    "sound": "gugugaga_start.wav"
+  },
+  "greeting_4": {
+    "sound": "gugugaga_start.wav"
+  },
+  "greeting_5": {
+    "sound": "gugugaga_start.wav"
+  }
+}

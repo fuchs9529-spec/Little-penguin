@@ -1,0 +1,376 @@
+{
+  "星融果冻": {
+    "name": "星融果冻",
+    "image": "cosmo_melto_jelly.png",
+    "effect_HP": 20,
+    "effect_FV": 20,
+    "drop_rate": 12,
+    "fv_lock": 0,
+    "cost": 180,
+    "type": "consumable",
+    "buff": {
+      "effect": "hp",
+      "interval": 60,
+      "value": 10,
+      "expiration": 180,
+      "description": "使用后每60秒恢复10点饱食度，持续3分钟"
+    },
+    "description": "在荒地上也能轻松制作的果冻，两种异香石混在一起，会将柑实“溶解”为奇怪的果冻质感物。"
+  },
+  "仿荤烩荞花": {
+    "name": "仿荤烩荞花",
+    "image": "meaty_buckflower_stew.png",
+    "effect_HP": 20,
+    "effect_FV": 10,
+    "drop_rate": 11,
+    "fv_lock": 0,
+    "cost": 110,
+    "type": "consumable",
+    "description": "丁点肉星都没有，却带有肉香味的烩菜。异香石作为调料，在部分情况下对烹饪体系确实存在颠覆性的贡献。"
+  },
+  "雅各布的遗产": {
+    "name": "雅各布的遗产",
+    "image": "jakubs_legacy.png",
+    "effect_HP": 30,
+    "effect_FV": 10,
+    "drop_rate": 13,
+    "fv_lock": 0,
+    "cost": 220,
+    "type": "consumable",
+    "buff": {
+      "effect": "coin",
+      "interval": 60,
+      "value": 10,
+      "expiration": 300,
+      "description": "使用后每60秒获得10啵币，持续5分钟"
+    },
+    "description": "硬如D64钢的面包。这种面包的起源据说可以追溯到裂地者尚未分裂的时代，裂地者们谣传它是军阀雅各布的餐桌常客。"
+  },
+  "谷地馅饼": {
+    "name": "谷地馅饼",
+    "image": "valley_pie.png",
+    "effect_HP": 30,
+    "effect_FV": 20,
+    "drop_rate": 6,
+    "fv_lock": 0,
+    "cost": 240,
+    "type": "consumable",
+    "buff": {
+      "effect": "hp",
+      "interval": 15,
+      "value": 1,
+      "expiration": 30,
+      "description": "使用后每15秒恢复1点饱食度，持续30秒"
+    },
+    "description": "填入了肉馅的馅饼。四号谷地居民童年回忆中都有它的影子，热腾腾的馅饼、火炉、家，这些事物总能唤起人的希望。"
+  },
+  "辣炒肉丁": {
+    "name": "辣炒肉丁",
+    "image": "meat_stir_fry.png",
+    "effect_HP": 30,
+    "effect_FV": 20,
+    "drop_rate": 5,
+    "fv_lock": 0,
+    "cost": 230,
+    "type": "consumable",
+    "description": "大火爆炒而成的肉丁。一盘辣炒肉丁通常能让人吃下三碗饭，不用质疑，它一直是开拓区最受欢迎的菜式。"
+  },
+  "清炖兽排参须汤": {
+    "name": "清炖兽排参须汤",
+    "image": "ginseng_meat_stew.png",
+    "effect_HP": 30,
+    "effect_FV": 30,
+    "drop_rate": 5,
+    "fv_lock": 0,
+    "cost": 300,
+    "type": "consumable",
+    "buff": {
+      "effect": "FV_stop",
+      "expiration": 900,
+      "description": "使用后15分钟内好感度不会下降"
+    },
+    "description": "以琼叶参须、兽排及多种材料炖煮而成的药膳。武陵秋冬常见菜肴。大雪纷飞时，一碗鲜美肉汤足以暖身暖心。"
+  },
+  "锦素炒饭": {
+    "name": "锦素炒饭",
+    "image": "garden_fried_rice.png",
+    "effect_HP": 20,
+    "effect_FV": 10,
+    "drop_rate": 10,
+    "fv_lock": 0,
+    "cost": 100,
+    "type": "consumable",
+    "description": "少油少盐的炒饭，最大限度地保留了蔬菜的清香。"
+  },
+  "开工日肉汤": {
+    "name": "开工日肉汤",
+    "image": "sod_turning_meat_soup.png",
+    "effect_HP": 30,
+    "effect_FV": 20,
+    "drop_rate": 7,
+    "fv_lock": 0,
+    "cost": 250,
+    "type": "consumable",
+    "buff": {
+      "effect": "FV_stop",
+      "expiration": 900,
+      "description": "使用后15分钟内好感度不会下降"
+    },
+    "description": "带着果香味的肉羹。四号谷地建设启动的第一天大家吃了什么?这个问题的答案众说纷纭，但许多老工人宣称那天吃了一道果香味的肉汤。"
+  },
+  "武陵乱炒": {
+    "name": "武陵乱炒",
+    "image": "wuling_flame_boyance.png",
+    "effect_HP": 20,
+    "effect_FV": 20,
+    "drop_rate": 12,
+    "fv_lock": 0,
+    "cost": 140,
+    "type": "consumable",
+    "buff": {
+      "effect": "fv",
+      "interval": 5,
+      "value": 1,
+      "expiration": 60,
+      "description": "使用后每5秒增加1点好感度，持续1分钟"
+    },
+    "description": "外观豪放的乱炒笋，对刀工火候的要求都不高。武陵有多少户人家便有多少种乱炒的做法。"
+  },
+  "塞什卡风肉排": {
+    "name": "塞什卡风肉排",
+    "image": "seshqa_style_fillet.png",
+    "effect_HP": 30,
+    "effect_FV": 10,
+    "drop_rate": 9,
+    "fv_lock": 0,
+    "cost": 260,
+    "type": "consumable",
+    "buff": {
+      "effect": "hp",
+      "interval": 60,
+      "value": 10,
+      "expiration": 300,
+      "description": "使用后每60秒恢复10点饱食度，持续5分钟"
+    },
+    "description": "黑乎乎的肉排，能吃出碎骨。与其说是塞什卡风菜式，倒不如说是裂地者们想象中的塞什卡风菜式。"
+  },
+  "软骨饼干": {
+    "name": "软骨饼干",
+    "image": "cartilage_tack.png",
+    "effect_HP": 10,
+    "effect_FV": 10,
+    "drop_rate": 15,
+    "fv_lock": 0,
+    "cost": 40,
+    "type": "consumable",
+    "description": "混入了小块软骨的咸香饼干，造型可爱，但因为材料原因吃起来又干又噎。据说这道菜源自一张裂地者食谱，真是难得，癫狂的“管子人”偶尔也有细腻心思。"
+  },
+  "速食骨汤": {
+    "name": "速食骨汤",
+    "image": "instant_bone_soup.png",
+    "effect_HP": 10,
+    "effect_FV": 10,
+    "drop_rate": 14,
+    "fv_lock": 0,
+    "cost": 85,
+    "type": "consumable",
+    "buff": {
+      "effect": "hp",
+      "interval": 5,
+      "value": 1,
+      "expiration": 60,
+      "description": "使用后每5秒恢复1点饱食度，持续1分钟"
+    },
+    "description": "由异香石调料、特殊骨粉冲泡而成的速食汤。明明味道鲜美，但不知为何总会让品尝者生出一种“拿掉骨粉也无伤大雅”的荒诞思考。"
+  },
+  "约翰老爹汉堡": {
+    "name": "约翰老爹汉堡",
+    "image": "old_man_johns_burger.png",
+    "effect_HP": 30,
+    "effect_FV": 20,
+    "drop_rate": 6,
+    "fv_lock": 0,
+    "cost": 280,
+    "type": "consumable",
+    "buff": {
+      "effect": "hp",
+      "interval": 30,
+      "value": 5,
+      "expiration": 120,
+      "description": "使用后每30秒恢复5点饱食度，持续2分钟"
+    },
+    "description": "在探索途中想吃到一份正宗约翰老妈汉堡确实不易，但努努力的话，你至少能够还原出厚切汉堡的八成风味。"
+  },
+  "炖肉会议": {
+    "name": "炖肉会议",
+    "image": "stew_meeting.png",
+    "effect_HP": 50,
+    "effect_FV": 30,
+    "drop_rate": 3,
+    "fv_lock": 0,
+    "cost": 420,
+    "type": "consumable",
+    "buff": {
+      "effect": "HP_stop",
+      "expiration": 1800,
+      "description": "使用后30分钟内饱食度不会下降"
+    },
+    "description": "极度“豪横”的盆装菜式，能明显看出其中的肉远不止一种。请大快朵颐吧，在种种恶劣条件下能烹饪出正常的菜肴实属难得。"
+  },
+  "爆辣腌渍水果": {
+    "name": "爆辣腌渍水果",
+    "image": "superhot_fruit_preserves.png",
+    "effect_HP": 10,
+    "effect_FV": 20,
+    "drop_rate": 12,
+    "fv_lock": 0,
+    "cost": 90,
+    "type": "consumable",
+    "description": "酸辣味的腌水果。柑实未完全成熟时味道极酸，但连皮一起切块，再加入苦叶椒与异香石料粉腌制后，却能产生酸辣爽口的味道。"
+  },
+  "枢纽区应急餐": {
+    "name": "枢纽区应急餐",
+    "image": "hub_emergency_ration.png",
+    "effect_HP": 20,
+    "effect_FV": 10,
+    "drop_rate": 13,
+    "fv_lock": 0,
+    "cost": 70,
+    "type": "consumable",
+    "description": "十分坚硬的咸味面包。枢纽区基地决定建设后，初到四号谷地的终末地干员们考虑到可能会发生的物资断供状况，特意在补给清单中加入了这种极耐储存的应急干粮。"
+  },
+  "正本补元汤剂": {
+    "name": "正本补元汤剂",
+    "image": "fortifying_infusion.png",
+    "effect_HP": 20,
+    "effect_FV": 30,
+    "drop_rate": 7,
+    "fv_lock": 0,
+    "cost": 240,
+    "type": "consumable",
+    "description": "以琼叶参、锦草煎制而成的汤剂，通常被用以温补气血。许多曾受重伤的战士靠着它调理好了自身暗疾。"
+  },
+  "油爆“双脆”": {
+    "name": "油爆“双脆”",
+    "image": "pan_fried_double_crisp.png",
+    "effect_HP": 40,
+    "effect_FV": 30,
+    "drop_rate": 5,
+    "fv_lock": 0,
+    "cost": 430,
+    "type": "consumable",
+    "buff": {
+      "effect": "hp",
+      "interval": 30,
+      "value": 5,
+      "expiration": 600,
+      "description": "使用后每30秒恢复5点饱食度，持续10分钟"
+    },
+    "description": "十分考验烹饪者厨艺的菜肴。球刺兽的肝脏火候稍过便会和橡胶一般硬。如何让它拥有与新笋相同的口感-一这是各位大厨需要首先解决的难题。"
+  },
+  "清炖息壤球": {
+    "name": "清炖息壤球",
+    "image": "simmered_xiranite_ball.png",
+    "effect_HP": 30,
+    "effect_FV": 30,
+    "drop_rate": 7,
+    "fv_lock": 0,
+    "cost": 340,
+    "type": "consumable",
+    "buff": {
+      "effect": "fv",
+      "interval": 30,
+      "value": 5,
+      "expiration": 300,
+      "description": "使用后每30秒增加5点好感度，持续5分钟"
+    },
+    "description": "被染成息壤色的肉丸。虽然它几可乱真的外观会让人在下箸前犹豫许久，但是它的松软鲜香总能征服食客。"
+  },
+  "爆辣焗烤源石虫": {
+    "name": "爆辣焗烤源石虫",
+    "image": "superhot_slug_gratin.png",
+    "effect_HP": 30,
+    "effect_FV": 20,
+    "drop_rate": 8,
+    "fv_lock": 0,
+    "cost": 240,
+    "type": "consumable",
+    "buff": {
+      "effect": "fv",
+      "interval": 60,
+      "value": 1,
+      "expiration": 300,
+      "description": "使用后每60秒增加1点好感度，持续5分钟"
+    },
+    "description": "令人安心的爆辣菜式。从一颗星球到另一颗星球，长久传承，故乡风味。"
+  },
+  "神秘气泡饮料": {
+    "name": "神秘气泡饮料",
+    "image": "mystery_soda.png",
+    "effect_HP": 10,
+    "effect_FV": 40,
+    "drop_rate": 12,
+    "fv_lock": 0,
+    "cost": 500,
+    "type": "consumable",
+    "buff": {
+      "effect": "coin",
+      "interval": 60,
+      "value": 100,
+      "expiration": 600,
+      "description": "使用后每60秒获得100啵币，持续10分钟"
+    },
+    "description": "打开瓶盖，喝下去，感受气泡在你的唇齿喉间跳动，最后打个嗝儿，就这么简单。"
+  },
+  "龙泡泡蔬菜冻": {
+    "name": "龙泡泡蔬菜冻",
+    "image": "chubby_lung_jellied_greens.png",
+    "effect_HP": 20,
+    "effect_FV": 40,
+    "drop_rate": 10,
+    "fv_lock": 0,
+    "cost": 420,
+    "type": "consumable",
+    "buff": {
+      "effect": "fv",
+      "interval": 10,
+      "value": 1,
+      "expiration": 600,
+      "description": "使用后每10秒增加1点好感度，持续10分钟"
+    },
+    "description": "弹弹的蔬菜冻。商家会用模具将蔬菜冻特意做成龙泡泡的形状，不存在别的选择，大家都喜欢龙泡泡。噢，多么可爱的龙泡泡。"
+  },
+  "秘方醒神茶": {
+    "name": "秘方醒神茶",
+    "image": "secret_stimulating_tisane.png",
+    "effect_HP": 10,
+    "effect_FV": 20,
+    "drop_rate": 14,
+    "fv_lock": 0,
+    "cost": 160,
+    "type": "consumable",
+    "buff": {
+      "effect": "HP_stop",
+      "description": "使用后饱食度不会下降"
+    },
+    "description": "根据卡贾提供的秘方制备的提神饮料，最好不要在白天就喝它。"
+  },
+  "小蜜虫布丁": {
+    "name": "小蜜虫布丁",
+    "image": "mini_honey_slugpudding.png",
+    "effect_HP": 20,
+    "effect_FV": 40,
+    "drop_rate": 9,
+    "fv_lock": 0,
+    "cost": 280,
+    "type": "consumable",
+    "buff": {
+      "effect": "fv",
+      "interval": 5,
+      "value": 1,
+      "expiration": 60,
+      "description": "使用后每5秒增加1点好感度，持续1分钟"
+    },
+    "description": "酸甜适中的柑橘味布丁，在熬煮过程中撒入了异香石碎屑调味，并用源石虫提取物固形。啊啊.…….这种甜到发腻的香气。"
+  }
+}

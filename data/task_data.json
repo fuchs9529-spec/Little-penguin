@@ -1,0 +1,41 @@
+{
+    "a9ebf085-2223-405e-84b2-414a86a20a54": {
+        "text": "123",
+        "task_type": "once",
+        "category": "Personal",
+        "color": "#FFD93D",
+        "due_time": null,
+        "recurrence_interval": -1,
+        "recurring_unit": "Days",
+        "created_at": "2026-05-19-03:57:02",
+        "is_active": null,
+        "completed_at": "2026-05-19-03:57:03",
+        "completed_times": 0
+    },
+    "1d327496-4dd0-4aee-8bc5-3c05571c25f0": {
+        "text": "吃饭",
+        "task_type": "once",
+        "category": "Personal",
+        "color": "#FFD93D",
+        "due_time": null,
+        "recurrence_interval": -1,
+        "recurring_unit": "Days",
+        "created_at": "2026-05-19-03:57:15",
+        "is_active": null,
+        "completed_at": "2026-05-19-03:57:19",
+        "completed_times": 0
+    },
+    "c7fee4c0-6e8a-48ae-afbd-a8ea0ecd8037": {
+        "text": "吃饭",
+        "task_type": "once",
+        "category": "Personal",
+        "color": "#FFD93D",
+        "due_time": "2026-05-20-12:00:00",
+        "recurrence_interval": -1,
+        "recurring_unit": "Days",
+        "created_at": "2026-05-19-03:58:48",
+        "is_active": null,
+        "completed_at": "2026-05-19-03:58:50",
+        "completed_times": 0
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "咕咕嘎嘎": {
+        "HP": 175,
+        "HP_tier": 3,
+        "FV": 117,
+        "FV_lvl": 4,
+        "fv_sys_ver": "v2",
+        "items": {
+            "清炖息壤球": [
+                1,
+                2
+            ],
+            "秘方醒神茶": [
+                2,
+                1
+            ]
+        },
+        "coins": 1907,
+        "days": 8,
+        "last_opened": "2026-6-13"
+    },
+    "Kitty": {
+        "HP": -1,
+        "HP_tier": 3,
+        "FV": 0,
+        "FV_lvl": 0,
+        "fv_sys_ver": "v2",
+        "items": {},
+        "coins": 0,
+        "days": 1,
+        "last_opened": "2026-4-28"
+    },
+    "小呆": {
+        "HP": 199,
+        "HP_tier": 3,
+        "FV": 1,
+        "FV_lvl": 0,
+        "fv_sys_ver": "v2",
+        "items": {},
+        "coins": 0,
+        "days": 2,
+        "last_opened": "2026-5-18"
+    }
+}
