@@ -1,9 +1,9 @@
 {
     "咕咕嘎嘎": {
-        "HP": 181,
-        "HP_tier": 3,
-        "FV": 37,
-        "FV_lvl": 5,
+        "HP": 70,
+        "HP_tier": 1,
+        "FV": 0,
+        "FV_lvl": 6,
         "fv_sys_ver": "v2",
         "items": {
             "清炖息壤球": [
@@ -23,7 +23,7 @@
                 1
             ]
         },
-        "coins": 1985,
+        "coins": 2001,
         "days": 8,
         "last_opened": "2026-6-13"
     },
